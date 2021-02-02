@@ -1,0 +1,8 @@
+       reduc_SSE_16B; 6.680
+       reduc_SSE_32B; 13.361
+       reduc_SSE_64B; 26.726
+      reduc_SSE_128B; 45.455
+       reduc_AVX_32B; 13.360
+       reduc_AVX_64B; 26.724
+      reduc_AVX_128B; 53.448
+      reduc_AVX_256B; 86.978

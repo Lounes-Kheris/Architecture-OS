@@ -1,0 +1,8 @@
+        copy_SSE_16B; 21.126
+        copy_SSE_32B; 23.061
+        copy_SSE_64B; 23.261
+       copy_SSE_128B; 23.261
+        copy_AVX_32B; 24.102
+        copy_AVX_64B; 23.867
+       copy_AVX_128B; 24.019
+       copy_AVX_256B; 24.065
